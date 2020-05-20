@@ -14,7 +14,7 @@ app.use(express.json());
 
 // Star Wars Characters (DATA)
 // =============================================================
-var characters =
+var characters =[
   {
     routeName: "yoda",
     name: "Yoda",
